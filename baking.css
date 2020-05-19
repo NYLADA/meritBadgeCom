@@ -1,0 +1,92 @@
+body {
+  background: pink;
+}
+p {
+  color: deeppink;
+  text-align: left;
+}
+h1 {
+  font-weight: bold;
+  color: mediumpurple;
+  font-family:cursive;
+  font-size: 45px
+}
+
+h3 {
+  color:hotpink;
+  font-size: 33px
+}
+
+h4 {
+  color: palevioletred;
+  font-size: 33px
+}
+
+li {
+  color: mediumvioletred;
+  text-align: left;
+  font-size: 33px
+}
+img {
+float: right;
+width: 400px;
+margin: 10px;
+border-color: saddlebrown;
+border-width: 4px;
+border-style: solid;
+border-radius: 130px;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: underline;
+  color: darkgoldenrod;
+}
+
+
+}
+a {
+  color: darkgoldenrod;
+  text-align: center;
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightgoldenrodyellow;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightgoldenrodyellow;
+}
+
+li {
+  float:left
+  color: darkgoldenrod;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: underline;
+  color: darkgoldenrod;
+}
+
+li a:hover {
+  background-color: pink;
+
+}
