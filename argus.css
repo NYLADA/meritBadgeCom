@@ -1,0 +1,77 @@
+body {
+  background: royalblue;
+}
+p {
+  color: powderblue;
+  float: right;
+  
+}
+h1 {
+  font-weight: bold;
+  color:lavender;
+  font-family: cursive;
+  font-size: 55px;
+  text-align: center
+}
+
+ol {
+  color:aqua;
+  font-size: 33px;
+  text-align: left;
+  float: left;
+}
+
+
+img {
+  float: right;
+  width: 400px;
+  margin: 10px;
+  border-color: blue;
+  border-width: 15px;
+  border-style: double;
+  border-radius: 25px;
+}
+
+h6 {
+  font-size: 33px;
+  color:aquamarine;
+  float:left;
+  text-align: left;
+  
+}
+
+
+a {
+  color: darkgoldenrod;
+  text-align: center;
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightgoldenrodyellow;
+  float:none;
+  text-align: left;
+}
+
+
+
+ li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: underline;
+
+}
+li a:hover{
+  background-color: royalblue;
+}
+
+li {
+  float: left
+    color:goldenrod;
+}
+
