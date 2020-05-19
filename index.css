@@ -1,0 +1,56 @@
+body {
+  background: skyblue;
+  
+}
+p {
+  color: darkslateblue;
+  font-size: 20px;
+  text-decoration: inherit
+  
+}
+h1 {
+  font-weight: bold;
+  color:indigo;
+  font-family: cursive;
+  font-size: 50px;
+  text-decoration-line: underline
+}
+  
+h3 {
+  color: rebeccapurple;
+  font-weight: 333;
+  font-family:cursive;
+  font-size: 30px;
+}
+
+a {
+  color: darkgoldenrod;
+  text-align: center;
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkslateblue;
+}
+
+li {
+  float: left;
+  color: darkgoldenrod;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: underline;
+  color: darkgoldenrod;
+}
+
+li a:hover {
+  background-color:antiquewhite;
+}
