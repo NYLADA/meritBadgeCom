@@ -19,12 +19,13 @@ ol {
   color:aqua;
   font-size: 33px;
   text-align: left;
-  float: left;
 }
+
 
 
 img {
   float: right;
+  clear: both;
   width: 400px;
   margin: 10px;
   border-color: blue;
@@ -35,26 +36,52 @@ img {
 
 h6 {
   font-size: 33px;
-  color:darkolivegreen;
-  float:left;
+  color:darkcyan;
   text-align: left;
-  
 }
 
+.container {
+  width: 50%;
+  float: left;
+  border-color:rgb(87, 76, 62);
+  border-width: 5px;
+  background-color:burlywood;
+  border-style: solid;
+  border-radius: 10px;
+
+}
+
+h2 {
+  color: lightskyblue;
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 44px;
+  text-align: right
+}
+
+#aboutArgs {
+  float: left;
+  border-color:antiquewhite;
+  border-width: 5px;
+  background-color:gray;
+  border-style: solid;
+  border-radius: 10px;
+}
 
 a {
   color: darkgoldenrod;
   text-align: center;
-  font-size: 3em;
+  
 }
 
 ul {
   list-style-type: none;
+  
   margin: 0;
   padding: 0;
   overflow: hidden;
-  float:none;
-  text-align: left;
+  float:left;
+  
 }
 
 
@@ -75,3 +102,12 @@ li {
     color:goldenrod;
 }
 
+.articles {
+  width: 95%;
+  border-color:antiquewhite;
+  border-width: 5px;
+  background-color:gray;
+  border-style: solid;
+  border-radius: 10px;
+
+}
