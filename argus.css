@@ -4,6 +4,7 @@ body {
 p {
   color: powderblue;
   float: right;
+  text-emphasis: size after 23px;
   
 }
 h1 {
@@ -34,7 +35,7 @@ img {
 
 h6 {
   font-size: 33px;
-  color:aquamarine;
+  color:darkolivegreen;
   float:left;
   text-align: left;
   
@@ -44,7 +45,7 @@ h6 {
 a {
   color: darkgoldenrod;
   text-align: center;
-  font-size: 30px;
+  font-size: 3em;
 }
 
 ul {
@@ -52,7 +53,6 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: lightgoldenrodyellow;
   float:none;
   text-align: left;
 }
